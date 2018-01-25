@@ -37,6 +37,16 @@ public class CookieMonster {
 		return new int[xpos, ypos, sum];
 	}
 	
+	public int getOptimalPath(int r, int c) {
+			
+		
+		
+		
+		
+	}
+	
+	
+	
 	public static void main(String[] args) {
 		
 	//	max = arr[arr.length -1][arr.length - 1];
